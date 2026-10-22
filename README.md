@@ -13,7 +13,7 @@ Repository hosting supplementary and paper related files of the ICVGIP26 submiss
 
 ## Supplementary material
 
-**[ScanOnce_LocalizeAnywhere_supplementary.pdf](ScanOnce_LocalizeAnywhere_supplementary.pdf)**
+**[Supplementary.pdf](Supplementary.pdf)**
 
 The supplementary material accompanies the main paper and contains:
 
