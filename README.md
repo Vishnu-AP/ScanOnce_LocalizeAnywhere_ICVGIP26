@@ -35,6 +35,9 @@ The supplementary material accompanies the main paper and contains:
 }
 ```
 
+## Note
+The accompanying video shows real-time operation with a handheld camera in our experimental space. This demonstration is purely qualitative and was not evaluated against ground truth. The video was generated from a RealSense D455 rosbag, replayed through the desktop configuration described in the paper. Although the D455 outputs multiple camera streams and IMU data, we recorded only the RGB stream, demonstrating complete monocular localization with no per-scene training and no rendering at query time.
+
 ## Contact
 
 Vishnu R Rao — Raise an issue
