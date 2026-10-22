@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/60d33a8c-a5f3-4df1-997a-5da1b36ba011
+
 # ScanOnce_LocalizeAnywhere_ICVGIP26
 Repository hosting supplementary and paper related files of the ICVGIP26 submission
 
